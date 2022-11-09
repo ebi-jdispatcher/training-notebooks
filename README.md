@@ -1,4 +1,4 @@
-# Web Production Training Notebooks
+# Job Dispatcher Training Notebooks
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://beta.mybinder.org/v2/gh/ebi-wp/wp-training-notebooks/master)
 
